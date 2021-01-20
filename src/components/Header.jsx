@@ -24,7 +24,7 @@ const HeaderStyles = styled.header`
   margin-right: auto;
   margin-bottom: 30px;
   margin-top: 10px;
-  width: 25%;
+  width: 500px;
   font-weight: bold;
   color: black;
 
