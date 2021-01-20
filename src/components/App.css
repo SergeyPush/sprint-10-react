@@ -1,0 +1,21 @@
+.wrapper {
+  width: 25%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.next_button {
+  display: block;
+  width: 100%;
+  border: none;
+  outline: none;
+  padding: 10px;
+  text-transform: uppercase;
+  cursor: pointer;
+  font-weight: bold;
+  margin-bottom: 10px;
+  transition: all 0.3s linear;
+}
+.next_button:hover {
+  background-color: #afaeb3;
+}
